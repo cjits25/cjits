@@ -1,5 +1,5 @@
 <?php
-$collegeName = "CHRISTU JYOTHI INSTITUTE OF TECHNOLOGY AND SCIENCE";
+$collegeName = "CHRISTU JYOTHI INSTITUTE OF TECHNOLOGY AND SCIENCE(College Code : 68)";
 $address = "Colombonagar, Yeshwanthapur, Jangaon, Telangana – 506167, India";
 $phone = "+91 9346474916";
 $email = "exams@cjits.org";
